@@ -11,17 +11,17 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
+global.autoTyping = true;                //make true to enable auto typing
+global.autoRecord = false;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
+global.Owner = ["🌡PŁÅÝBÓÍ🌚.🕳FŁĚX💀"];
+global.OwnerNumber = ["254782903443"];
+global.ownertag = ["PŁÅÝBÓÍ"]; 
+global.OwnerName =  "PŁÅÝBÓÍ.FŁĚX";
+global.BotName = "🐦PLAYBOI.ENT";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
@@ -31,7 +31,7 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 
 global.sessID = process.env.sessID || ``
-global.prefa = ["/"]
+global.prefa = ["*"]
 
 //
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
